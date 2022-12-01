@@ -3,7 +3,13 @@ import random
 
 
 def congratulate_user():
+<<<<<<< HEAD
     print(f"Congratulations, you won! your words: {guesses}")
+=======
+    print("=============================")
+    print("= Congratulations! You won! =")
+    print("=============================")
+>>>>>>> origin/conflict-branch
 
 
 def is_game_over():
